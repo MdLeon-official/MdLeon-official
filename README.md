@@ -30,6 +30,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdLeon-official&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdLeon-official&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdLeon-official&bg_color=1a1b27&color=ffffff&line=00e676&point=ffffff&hide_border=true)
+
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=MdLeon-official&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
