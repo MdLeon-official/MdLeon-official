@@ -36,6 +36,8 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=MdLeon-official&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
+![Snake animation](https://github.com/MdLeon-official/MdLeon-official/blob/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
