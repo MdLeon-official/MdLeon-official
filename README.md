@@ -1,4 +1,4 @@
-![MasterHead](file:///home/leon/Downloads/a3d22bd8-c8ef-44f1-a636-80672de2c77d-1.webp)
+<!--![MasterHead](file:///home/leon/Downloads/a3d22bd8-c8ef-44f1-a636-80672de2c77d-1.webp)-->
 <h1 align="center">Hi 👋, I'm Md. Leon Islam</h1>
 <h3 align="center">Cybersecurity Enthusiast | CSE Student | Rust Learner | Aspiring Ethical Hacker</h3>
 <p align="center">
