@@ -1,7 +1,10 @@
 ![MasterHead](https://preview.redd.it/one-of-the-craziest-foreshadowings-of-oda-chapter-1044-v0-nrieijy5gm0b1.png?width=240&format=png&auto=webp&s=163bad5cfedb518cc678ff681ececd0aa49559e0)
 <h1 align="center">Hi 👋, I'm Md. Leon Islam</h1>
 <h3 align="center">Cybersecurity Enthusiast | CSE Student | Rust Learner | Aspiring Ethical Hacker</h3>
-<img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif">
+<p align="center">
+  <img alt="Coding" width="100%" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif">
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdleon-official&label=Profile%20views&color=0e75b6&style=flat" alt="mdleon-official" /> </p>
