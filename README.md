@@ -33,8 +33,11 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=MdLeon-official&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MdLeon-official&icon=2&color=11)](https://visitcount.itsvg.in)
