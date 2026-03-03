@@ -4,20 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=450&lines=Cybersecurity+Enthusiast;Red+Team+Operator;CSE+Student;Offensive+Security+Learner" />
 </h1>
 
-<h3 align="center">⚡ Offensive Security | Red Teaming | Exploit Development ⚡</h3>
+<h3 align="center">Offensive Security | Red Teaming | Exploit Development</h3>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 CSE Student  
-- 🔴 Focused on Red Teaming & Offensive Security  
-- 🧠 Exploring Exploit Development & Malware Analysis  
-- 📫 Reach me at: **ug2302008@cse.pstu.ac.bd**
+- CSE Student  
+- Focused on Red Teaming & Offensive Security  
+- Reach me at: **ug2302008@cse.pstu.ac.bd**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/mdleonislam" target="_blank">
@@ -35,9 +34,9 @@
 
 ---
 
-# 💀 Red Team Tech Stack
+# Red Team Tech Stack
 
-## 👨‍💻 Languages (Offensive Focus)
+## Languages (Offensive Focus)
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
@@ -45,7 +44,7 @@
 
 ---
 
-## 🛠️ Red Team Tools
+## Red Team Tools
 
 ![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge)
@@ -58,14 +57,14 @@
 
 ---
 
-## 🖥️ Environment
+## Environment
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=MdLeon-official&theme=radical&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdLeon-official&theme=radical&hide_border=true)
@@ -73,17 +72,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=MdLeon-official&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
----
-
-## 🧠 Hacker Mindset
-
-```bash
-while(alive){
-    learn();
-    exploit();
-    improve();
-}
