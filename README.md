@@ -1,46 +1,85 @@
-# 💫About Me :
-<h1 align="center">Hi 👋, I'm Md. Leon Islam</h1>
-<h3 align="center">Cybersecurity Enthusiast | CSE Student | Rust Learner | Aspiring Ethical Hacker</h3>
+<!-- Animated Typing Name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Md.+Leon+Islam;Cybersecurity+Enthusiast;Red+Team+Operator;CSE+Student" />
+</h1>
 
-- 🔭 I’m currently working on **C, Python**
-
-- 🌱 I’m currently learning **Cybersecurity, RUST**
-
-- 📫 How to reach me **leonislam052@gmail.com**
-
-<p align="center">
-  <img alt="Coding" width="100%" src="https://22524429.fs1.hubspotusercontent-na1.net/hubfs/22524429/1_mge__-Hh0xBY7AaRI10Q8A.gif">
-</p>
-
-
-
-## 🌐Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/mdleonislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdleonislam" height="30" width="40" /></a>
-<a href="https://fb.com/mdleonislam0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdleonislam0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@leon000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@leon000" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nika___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nika___" height="30" width="40" /></a>
-</p>
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=MdLeon-official&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdLeon-official&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdLeon-official&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=MdLeon-official&theme=merko)]
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=MdLeon-official&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
+<h3 align="center">⚡ Offensive Security | Red Teaming | Exploit Development ⚡</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MdLeon-official&icon=2&color=11)](https://visitcount.itsvg.in)
+
+## 🧑‍💻 About Me
+
+- 🎓 CSE Student  
+- 🔴 Passionate about Red Teaming & Offensive Security  
+- 🧠 Learning Exploit Development & Malware Analysis  
+- 📫 Reach me at: **ug2302008@cse.pstu.ac.bd**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mdleonislam" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://fb.com/mdleonislam0" target="blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="40" />
+</a>
+<a href="https://www.hackerrank.com/@leon000" target="blank">
+<img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
+</a>
+<a href="https://codeforces.com/profile/nika___" target="blank">
+<img src="https://skillicons.dev/icons?i=codeforces" height="40" />
+</a>
+</p>
+
+---
+
+# 💀 Red Team Tech Stack
+
+## 👨‍💻 Languages (Offensive Focus)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 🛠️ Red Team Tools
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF0000?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John--The--Ripper-8B0000?style=for-the-badge)
+
+---
+
+## 🔎 Web & Exploitation
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MdLeon-official&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MdLeon-official&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdLeon-official&theme=radical&hide_border=true&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=MdLeon-official&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 🧠 Hacker Mindset
+
+```bash
+while(alive){
+    learn();
+    exploit();
+    improve();
+}
