@@ -1,10 +1,10 @@
 <!-- Static Name + Animated Roles -->
 <h1 align="center">
   Md. Leon Islam -
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=450&lines=Cybersecurity+Enthusiast;Red+Team+Operator;CSE+Student;Offensive+Security+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=450&lines=Cybersecurity+Enthusiast;Red+Teaming+Enthusiast;CTF+Player;Offensive+Security+Learner" />
 </h1>
 
-<h3 align="center">Offensive Security | Red Teaming | Exploit Development</h3>
+<h3 align="center">Offensive Security Enthusiast | Red Teaming | CTF Player</h3>
 
 ---
 
@@ -12,6 +12,7 @@
 
 - CSE Student  
 - Focused on Red Teaming & Offensive Security  
+- Like to play CTF
 - Reach me at: **ug2302008@cse.pstu.ac.bd**
 
 ---
